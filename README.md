@@ -1,2 +1,2 @@
-# lifestyle-brand-qebsite
+# lifestyle-brand-website
 selling and marketing platform 
